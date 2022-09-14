@@ -1,2 +1,1 @@
-# transaction-analysis-workbench-elastic
-Visualize Transaction Analysis Workbench data in Elastic Kibana dashboards
+See the [documentation](https://z-open-data.github.io/transaction-analysis-workbench-elastic/)
